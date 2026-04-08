@@ -37,7 +37,7 @@ const UserHeaderNav = () => {
       <nav
         className={`${mobile ? styles.navMobile : styles.nav} ${mobileMenu && styles.navMobileActive}`}
       >
-        <NavLink to="/conta">
+        <NavLink to="/conta" end>
           <MinhasFotos />
           {mobile && 'Minhas Fotos'}
         </NavLink>
