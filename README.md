@@ -6,7 +6,7 @@ Rede social para amantes de cachorros, onde é possível criar uma conta, fazer 
 
 ## Acesse o projeto
 
-🔗 em breve
+🔗 [https://dogs-roberta.vercel.app/](https://dogs-roberta.vercel.app/)
 
 ## Funcionalidades
 
@@ -37,3 +37,7 @@ Rede social para amantes de cachorros, onde é possível criar uma conta, fazer 
 - JavaScript (ES6+)
 - CSS Modules
 - API REST externa (Dogs API)
+
+## Preview 👀
+
+<img src="./preview.png" alt="Preview do projeto Animais Fantásticos" width="600">
