@@ -53,8 +53,8 @@ a {
   margin: 1rem 0;
   position: relative;
 }
-.title::after{
-  content: "";
+.title::after {
+  content: '';
   display: block;
   width: 1.5rem;
   height: 1.5rem;
@@ -62,7 +62,7 @@ a {
   position: absolute;
   bottom: 5px;
   left: -5px;
-  border-radius: .2rem;
+  border-radius: 0.2rem;
   z-index: -1;
 }
 .animeLeft {
@@ -75,4 +75,13 @@ a {
     opacity: 1;
     transform: initial;
   }
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh + 10rem);
+}
+.AppBody {
+  flex: 1;
 }
